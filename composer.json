@@ -29,7 +29,8 @@
   ],
   "require": {
     "php": ">=7.4",
-    "ext-json": "*"
+    "ext-json": "*",
+    "backpack/basset": "dev-main"
   },
   "require-dev": {
     "phpunit/phpunit": "^9.3"

@@ -10,6 +10,7 @@ Install using composer:
 
 ```bash
 composer require aldeebhasan/lottie-laravel:1.1.0
+php artisan basset:install
 ```
 
 A new cache capabilities added to the package, you can enable it by using the following keys to your env file:
