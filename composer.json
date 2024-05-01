@@ -1,5 +1,5 @@
 {
-  "name": "aldeebhasan/lottie-laravel",
+  "name": "grafst/lottie-laravel",
   "description": "This package will allow you to manage and preview lottiefiles in your laravel project",
   "type": "library",
   "version": "1.1.0",
